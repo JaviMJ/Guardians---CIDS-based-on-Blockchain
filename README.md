@@ -1,6 +1,6 @@
 # Guardians CIDS based on Blockchain
 
-Guardians is a functional prototype of a collaborative intrusion detection system (CIDS), where all the nodes are connected to each other by a private Blockchain network. These nodes use the Blockchain network to exchange rules in a secure way with all the benefits that these type of networks provides. Each node run a Snort IDS and Guardians server that includes a Blockchain server and the connector between Snort and the Blockchain.
+Guardians is a functional prototype of a collaborative intrusion detection system (CIDS), where all the nodes are connected to each other by a private Blockchain network. These nodes use the Blockchain network to exchange rules in a secure way with all the benefits that these types of networks provide. Each node run a Snort IDS and Guardians server that includes a Blockchain server and the connector between Snort and the Blockchain.
 
 This tool is full developed in Python 3.
 
